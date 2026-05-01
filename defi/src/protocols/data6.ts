@@ -1463,5 +1463,28 @@ const data6: Protocol[] = [
     twitter: "Neronaxyz",
     listedAt: 1777660684
   },
+  {
+    id: "7778",
+    name: "Rise",
+    address: null,
+    symbol: "-",
+    url: "https://rise.rich/",
+    description: "Solana launchpad with built-in lending. Token bonding curves and borrow markets are accounted for by the underlying Mayflower program",
+    chain: "Solana",
+    logo: `${baseIconsUrl}/rise.jpg`,
+    audits: "0",
+    gecko_id: null,
+    cmcId: null,
+    category: "Launchpad",
+    chains: ["Solana"],
+    module: "rise-protocol/index.js",
+    twitter: "risedotrich",
+    github: ["riserich"],
+    listedAt: 1777679661,
+    dimensions: {
+      dexs: "rise-protocol",
+      fees: "rise-protocol",
+    },
+  },
 ];
 export default data6;
