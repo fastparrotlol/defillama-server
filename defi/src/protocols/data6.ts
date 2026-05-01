@@ -1463,5 +1463,27 @@ const data6: Protocol[] = [
     twitter: "Neronaxyz",
     listedAt: 1777660684
   },
+  {
+    id: "7777",
+    name: "EasyA Kickstart",
+    address: null,
+    symbol: "-",
+    url: "https://kickstart.easya.io/",
+    description: "Permissionless ideas launchpad on Solana built on top of Meteora Dynamic Bonding Curve",
+    chain: "Solana",
+    logo: `${baseIconsUrl}/easya-kickstart.jpg`,
+    audits: "0",
+    gecko_id: null,
+    cmcId: null,
+    category: "Launchpad",
+    chains: ["Solana"],
+    module: "easya-kickstart/index.js",
+    twitter: "EasyA_Kickstart",
+    listedAt: 1777673109,
+    dimensions: {
+      fees: "easya-kickstart",
+      dexs: "easya-kickstart",
+    },
+  },
 ];
 export default data6;
