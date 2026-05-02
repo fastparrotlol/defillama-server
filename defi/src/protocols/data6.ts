@@ -1471,7 +1471,7 @@ const data6: Protocol[] = [
     url: "https://kickstart.easya.io/",
     description: "Permissionless ideas launchpad on Solana built on top of Meteora Dynamic Bonding Curve",
     chain: "Solana",
-    logo: `${baseIconsUrl}/easya-kickstart.jpg`,
+    logo: `${baseIconsUrl}/easya-kickstart.svg`,
     audits: "0",
     gecko_id: null,
     cmcId: null,
